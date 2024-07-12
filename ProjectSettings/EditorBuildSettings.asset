@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/VR_Boat_Simulation/Crest-Examples/Main/Scenes/main.unity
+    guid: 831b08ead2995f8419a358cd5da15916
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ce3b93fc92e4bc2459fa0f33d8c403d8,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: eaf4a81aaa346b448af30bb4f7946c17,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5fe1184993f1e460f934e68a989b0762,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 2e897f5840a6a424793458595876e6ed,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: b37e65064f45f4fd6823321fb70ec038,
+      type: 2}
